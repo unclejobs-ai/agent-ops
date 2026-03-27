@@ -1,0 +1,2039 @@
+{
+  "generatedAt": "2026-03-27T16:15:02.593Z",
+  "configPath": "/root/christmas-ai-studio/ops/ai-trend-monitor/sources.json",
+  "mode": "collect",
+  "items": [
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "OpenAI upgrades Codex with plug-ins to match Claude Code - NewsBytes",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUpKYkhCTHNYc29VR1VkMzlZcl8tSi1VRHVneFBPVjJNLU1fUjE3ZWF4R3JkaDBTd05XNmtQZnY1dDJUamRSV3FCcFpJdllZcG8yS1JOTl9BMTBwRUhCRUJ1N2xMR0RuT09HT20zVS15TUFUb2lpdlh2YXRYbzdOWjhodlFjVDZRblByZlNNS0lPUkVMYzN2M1d5Y1lpWkdQLUlYcHNn?oc=5",
+      "snippet": "OpenAI upgrades Codex with plug-ins to match Claude Code NewsBytes",
+      "publishedAt": "Fri, 27 Mar 2026 13:32:34 GMT",
+      "matchedTopicIds": [
+        "claude-code",
+        "codex"
+      ],
+      "score": 72,
+      "reasons": [
+        "topic:claude-code,codex",
+        "source:Google News: Claude Code",
+        "title-boost:1",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 2.7079347222222223
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "OpenAI upgrades Codex to automate your workflows - and compete better with Claude Code - ZDNET",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObGZjZlBVck5YSWtZdGlDT0s2NUtKcFR4dlh1Y3pDNUx0NkZyeU9YcU9VcHpseWpTODhpdjBORHRYWVdXd0dpM19oelY2MTJvOHJzWmFVcXNVVVRqeFE4cnhWU09CcFlJSUxoZ3AtbDBWbWhvcGFYanFBRUU1azlmb2NGc3VXdw?oc=5",
+      "snippet": "OpenAI upgrades Codex to automate your workflows - and compete better with Claude Code ZDNET",
+      "publishedAt": "Fri, 27 Mar 2026 13:41:00 GMT",
+      "matchedTopicIds": [
+        "claude-code",
+        "codex"
+      ],
+      "score": 70,
+      "reasons": [
+        "topic:claude-code,codex",
+        "source:Google News: Claude Code",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 2.567378888888889
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "Cursor CEO warns vibe coding builds 'shaky foundations' and eventually 'things start to crumble - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82VlNQTVlQNlVmZDR6YjZqbmFwdTZwcjdsaC1BQUxRTWw0UjV6eTFLWjZNVmxoellzVzI3UXhZVUJPR0lzVUNCWkpYZERlZ0tuSVVmWnY4SE85OW9MNHZTYkhPdGtTNURQVHF3?oc=5",
+      "snippet": "Cursor CEO warns vibe coding builds 'shaky foundations' and eventually 'things start to crumble Fortune",
+      "publishedAt": "Fri, 27 Mar 2026 10:34:00 GMT",
+      "matchedTopicIds": [
+        "cursor",
+        "vibe-builders"
+      ],
+      "score": 68,
+      "reasons": [
+        "topic:cursor,vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "title-boost:1",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 5.684051111111111
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "OpenAI adds plugin system to Codex to help enterprises govern AI coding agents - InfoWorld",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0duQUtrMVhSeXl5YjBlcXA2ZVB5ZmlWdWdJUGNmaVVZNFRXUXlaNm1VcmRyT19mTUJxYm5oeWxSSFE1blZkdmZwaE1NUUxiM1U2WENWVWt1c2hFQVVFVDdnMmhEMFUxbWQ3N0UtdG9naGg4YVdUdXR6eWFwQmFmOU1fTkRKSVN0dEdjM21uaGE0RDJVRFgxVVQxRTduU3BUTUFQQ2FBVnRhYy1QclBfRnc3ZDFDb0ZaYll4cmY2cjZZdkk?oc=5",
+      "snippet": "OpenAI adds plugin system to Codex to help enterprises govern AI coding agents InfoWorld",
+      "publishedAt": "Fri, 27 Mar 2026 12:28:39 GMT",
+      "matchedTopicIds": [
+        "codex",
+        "high-attention-ai-tool-news"
+      ],
+      "score": 66,
+      "reasons": [
+        "topic:codex,high-attention-ai-tool-news",
+        "source:Google News: Codex",
+        "title-boost:2",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 3.773213611111111
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Claude Code vs. OpenClaw: Which AI Agent Actually Wins in 2026? - Programming Insider",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2JoTE1yQTM4M192M3JXZm9jS0loMjd4Uk5ybHEzeGR4a2c1X2pQX1ZZb3ZJaEVXN283N2NTNWlLZy1FOFgzb203YWFFakJRVnVndjZENmpoUlNZTEcteEhlcUFuRUJvWGkwejJJaWlHV29KZ3MtUHhKa29yblhfT1gyWEZDV09aWDJtNEh2LTVCZHliRl9z?oc=5",
+      "snippet": "Claude Code vs. OpenClaw: Which AI Agent Actually Wins in 2026? Programming Insider",
+      "publishedAt": "Thu, 26 Mar 2026 20:43:21 GMT",
+      "matchedTopicIds": [
+        "claude-code",
+        "openclaw"
+      ],
+      "score": 64,
+      "reasons": [
+        "topic:claude-code,openclaw",
+        "source:Google News: Claude Code",
+        "title-boost:1",
+        "fresh:<24h",
+        "exact-title-hit"
+      ],
+      "ageHours": 19.528212222222223
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "Codex chief says OpenAI coding agent here to stay amid Sora shutdown - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkltdGU2NmFCdTRGc0oxMGNkdFB6RVNOdXBHRDU2OTFSQklLeDhuTzZBLTlkQ0c4aUxCR3JmRnZMS215LXdTUGVtYm1uVkxMcVZUYzQ4OGNzWDQxendjNG01ZmZLb1lnR3BLbTR0V0pIcmRLQlhHR2lEUklSRjIxaW9ROHU3bzEtcnN5bm1seFRBNktaaWJXQ05Kc2hsYjNrZkhRZi1ZTXl4UlpwU0JZY1o0QzAtakx4?oc=5",
+      "snippet": "Codex chief says OpenAI coding agent here to stay amid Sora shutdown MSN",
+      "publishedAt": "Thu, 26 Mar 2026 09:09:40 GMT",
+      "matchedTopicIds": [
+        "codex",
+        "high-attention-ai-tool-news"
+      ],
+      "score": 58,
+      "reasons": [
+        "topic:codex,high-attention-ai-tool-news",
+        "source:Google News: Codex",
+        "title-boost:2",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 31.089603611111112
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "Codex chief says OpenAI coding agent here to stay amid Sora shutdown - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYldnVnFiMXZBZXdPVlA4Nl91SmM5OGlPblR1WTQ2bXNLMzJ4N2VaZnJ4MEFiUHIyb2hRMm5PUUI1azVhUkRFbzd2cFZ3RFVzWkZkYS02WlJJWmZ0T1JBcFNfUlZqMWg2d2ZuVXYxUzUzX29UVHFxTnJRSEJHYm9aRlRSRWpBQUdycFRsVjItck11VU01bkZ4TndMRXdsY0h5NzJPb2lldWFKQ0NRZ1lNaVdtekphUWhYbURmVlo4QlBCX1lXU3ZPWTBrMGVQdVJz0gHWAUFVX3lxTE4xMFhPaWxKTmJGUEp1OEFXdVZ2c1lxQ1hQUUlHMVVvUXQzYXhWRXYyOHl3cWZkTjN2M3duQ2gwT21MX201OGFvLWp0VjU5YjFTeEdNTEpPZl96Q0ozeU9KNTlsVU80dHpRc2xwamtmN1VmRDBBV1dpUHBkemQtTGFxV1lSLVJfRk8za2ZaMWdDMTAwQ0FHTkcwQjlFUldxRFQ5eE5zUUZZRE9seGpnYXlkZFpRN21nd3Jjdll1cTJjajlhN293R2RCeWxqa2EwaWlWbW01R2c?oc=5",
+      "snippet": "Codex chief says OpenAI coding agent here to stay amid Sora shutdown India Today",
+      "publishedAt": "Thu, 26 Mar 2026 08:07:21 GMT",
+      "matchedTopicIds": [
+        "codex",
+        "high-attention-ai-tool-news"
+      ],
+      "score": 58,
+      "reasons": [
+        "topic:codex,high-attention-ai-tool-news",
+        "source:Google News: Codex",
+        "title-boost:2",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 32.128214722222225
+    },
+    {
+      "sourceId": "google-news-high-attention-ai-devtools",
+      "sourceLabel": "Google News: high-attention AI devtools",
+      "sourcePriority": 9,
+      "title": "OpenAI launches Codex app for Windows, brings AI agentic coding to more developers - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNXzVRak80UjVtYkRYUDNuOHFXZDJyTFpwQXNUR0hTbUFyWk9FUDE1cGxDZzA5SVExeW9kc01FN0kxNXFZRXJjU1VDWXRvaEg2MDA5eXRpVi1PWHFMMXNNc2pnTzEtblY2YnRTZUw5MzJRcmVLT29sdXVmYURHenVtOWYwaXdNQzF0TGYzQ1NPNk56aXcyRGtTRDRuSjlBVDR3QW1zYmVPQk8zNlhOaElONXg4SE1RX0htUko2LURwLXFhZ2Q3bjBBbF8tY2NkYXBxUHQ5X2FJaVdWQQ?oc=5",
+      "snippet": "OpenAI launches Codex app for Windows, brings AI agentic coding to more developers MSN",
+      "publishedAt": "Wed, 25 Mar 2026 11:45:24 GMT",
+      "matchedTopicIds": [
+        "codex",
+        "high-attention-ai-tool-news"
+      ],
+      "score": 57,
+      "reasons": [
+        "topic:codex,high-attention-ai-tool-news",
+        "source:Google News: high-attention AI devtools",
+        "title-boost:3",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 52.49405194444444
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "OpenAI Codex Just Got Plugins: Here Are 10 AI Coding Features You Should Not Miss - Techloy",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMkRYSU9HUC1sNDh0TnV1SXdfcXIwMnZOeVdaeWRJR2VrRHhqaUVfNmlhUDlBWGJ4S0pUN2ttMm1UenBOaHpZYW5pbVdCMlVQRFRDMmZSdGVZbGxIZ1hLMG1ZVXdmNmVXSXFRLWhGZkZyR2tzNVl1XzlzNWJkZTd2OUhoY25zWXRfaE5hRWZqZnJNY2VUbVplMkRhb2I3UVEwRFNSRDVSVmw?oc=5",
+      "snippet": "OpenAI Codex Just Got Plugins: Here Are 10 AI Coding Features You Should Not Miss Techloy",
+      "publishedAt": "Fri, 27 Mar 2026 15:43:52 GMT",
+      "matchedTopicIds": [
+        "codex"
+      ],
+      "score": 54,
+      "reasons": [
+        "topic:codex",
+        "source:Google News: Codex",
+        "title-boost:1",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 0.5196025
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "OpenAI’s Codex gets plugins - The New Stack",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uS0dGZ0dZTkJNa0p3c3pFSlc1a1hZb3VoaWJ6Z1VVNlRfc0xCWWJfd3NHRzZHazFCLUphNWtweG9EQVY1STR0VVRobUpUT1M4VWdjNW05LURDZjZJM21j?oc=5",
+      "snippet": "OpenAI’s Codex gets plugins The New Stack",
+      "publishedAt": "Fri, 27 Mar 2026 15:22:10 GMT",
+      "matchedTopicIds": [
+        "codex"
+      ],
+      "score": 54,
+      "reasons": [
+        "topic:codex",
+        "source:Google News: Codex",
+        "title-boost:1",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 0.8812691666666667
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Still Using Claude Code Bypass Permissions? Use This New Feature Instead - Geeky Gadgets",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tMXRXUV9xYWkxRkgyV3RiUW5HWEhpRWpPeFBEZlVvVTFqRHBQMFFmYXF5M0I1T1kxaUhMaEMzWkdtb0dPc0t4OVh1UUZHX1E0empLOXVISUowQlA3U2F4NkF1amFqaUtO?oc=5",
+      "snippet": "Still Using Claude Code Bypass Permissions? Use This New Feature Instead Geeky Gadgets",
+      "publishedAt": "Fri, 27 Mar 2026 09:31:32 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 54,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "title-boost:1",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 6.725156944444445
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "OpenAI launches Codex Plugins to streamline developer workflows - Neowin",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcnlQc1c2Q21TS25qNFhfUWREWEdzTnc3aTFUMWJsNENKUWZiYTgtdTV3QlZ0ZDZ6VUpaYzh3c0pxNzFTd29jSHYxbUhNZG1RUHZuc0RaamFzc2lEV21Hcnp6OVFOOXZTVUlVVUtvLWk2cHZ3My1lcmg0R0tsX1BseGZFN05QbGk2LVkwV2kwUXBob3pjYTRn0gGWAUFVX3lxTE5HRU9jd2k4SS1OZFFETlVwSDJoQmNkVkhESTNvTWI4MkkwUUdWNHRNNk9kdjloVnJObzhTRzRZOHdqM2NjMmNjclpVTkFXQjFUWl94YlFqdTZTWlVtb1hWVW5ES0lyTzQ5RjBueVdRTzZHOVI4ZVZrTFZmeDVDQ20zMFlpM0JKVVhjUk91c1pyLS1nTHBrQQ?oc=5",
+      "snippet": "OpenAI launches Codex Plugins to streamline developer workflows Neowin",
+      "publishedAt": "Fri, 27 Mar 2026 08:07:08 GMT",
+      "matchedTopicIds": [
+        "codex"
+      ],
+      "score": 54,
+      "reasons": [
+        "topic:codex",
+        "source:Google News: Codex",
+        "title-boost:1",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 8.131824722222222
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "Warhammer 11th Edition officially revealed, and your old Codex army books will still work - GamesRadar+",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNE9JRXpPNzRZc210eGRHYU5NZGNoa1ZmV0tDdThQX2sxZGZNUUNibEtYZ1I1Y054Yi0tb2dtUEdLOU5EMTl5U1JlVE4tNjgwWHVTNXVUdVpEWThMZFNPWXpJRVFrR2YzTXltMGlIV1NEWFRiUGNIeWJmVlhvNDJ6SmFwREpkS1kyOW9FN3lLWmRTajc4VEV1NEI5V2RvN2tTTmI2ejk0SDVZTkxtT0xISXJpLWdSeFNjeDE2S2w2SGNBNXhPQjRSTkNWZ0I?oc=5",
+      "snippet": "Warhammer 11th Edition officially revealed, and your old Codex army books will still work GamesRadar+",
+      "publishedAt": "Fri, 27 Mar 2026 15:36:30 GMT",
+      "matchedTopicIds": [
+        "codex"
+      ],
+      "score": 52,
+      "reasons": [
+        "topic:codex",
+        "source:Google News: Codex",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 0.6423802777777777
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "OpenAI Adds Plugin Marketplace to Codex - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ySTJybXZSMEFmUXhiTG5HaXBCSE1iVTRvaFJKUDNkMHRSQUROdkhFSWNWamc3MFU1SUtHd3E2VUJ1MFFuTFVnWGFOUFBTZmZMMm1KSHh3dmRlSGZreS12bW5MVTFaWmQxeFZIME93?oc=5",
+      "snippet": "OpenAI Adds Plugin Marketplace to Codex Unite.AI",
+      "publishedAt": "Fri, 27 Mar 2026 13:21:54 GMT",
+      "matchedTopicIds": [
+        "codex"
+      ],
+      "score": 52,
+      "reasons": [
+        "topic:codex",
+        "source:Google News: Codex",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 2.885713611111111
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "Why Swedish vibe-coding startup Lovable rejects candidates who want rigid structure — and hires for 'founder DNA' - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWmoyUnhXY1VQcVc4cThIQmRVTG9EM3VFS2RpZ1NQRlY3N2cyMmRVS20zcW01b3o0N3FlWkp5SHM3ZFBZQlBrNFBJbDhRZkpKTk1IcDZCNzhVLUJObUpQc05qaUtoeFgtMmVlWDNpT0FyYVgxcGR6X1BrRW9qN3E2TVNFU1BTV3cwVjVGczZLclhCanVQc215QXNsRkY?oc=5",
+      "snippet": "Why Swedish vibe-coding startup Lovable rejects candidates who want rigid structure — and hires for 'founder DNA' Business Insider",
+      "publishedAt": "Fri, 27 Mar 2026 12:48:34 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 52,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "title-boost:1",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 3.441273333333333
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "OpenAI's Codex gets a plugin marketplace for Slack, Notion, Figma, and more - the-decoder.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnFnR2F6dnJmMEphLTZjMWVCcC1zeFYtRDQzZWNVeXFVdXhWUURoN1NENEdGR3d2YnpHNWI2aWxiV1ZjNVN6cDNvM2duUVRNNkNpWl9rczNUQTVyRnpHRHczNkRjZVZQRmRvdnRWTThQc01pWEJuYUx4eVlmZ0MzdWRDZ1JMUWxpT1BmY0lGR1otSEVocFdoYXl1TFA?oc=5",
+      "snippet": "OpenAI's Codex gets a plugin marketplace for Slack, Notion, Figma, and more the-decoder.com",
+      "publishedAt": "Fri, 27 Mar 2026 11:12:02 GMT",
+      "matchedTopicIds": [
+        "codex"
+      ],
+      "score": 52,
+      "reasons": [
+        "topic:codex",
+        "source:Google News: Codex",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 5.050157777777778
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "19,000 Lines of Claude Code \"AI Junk\" Invades Node.js: World's Top Open - Source Project on Verge of Collapse - 36氪",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WRmlSQmVKeUV0TWZLX3UyRXY5YWY5WTlFZUtwMzRtamhFdTY0dWVfVnlTNHNNVzljOEdHZTJwU09CZEE4SF9aR00wUXhWRmFxa09R?oc=5",
+      "snippet": "19,000 Lines of Claude Code \"AI Junk\" Invades Node.js: World's Top Open - Source Project on Verge of Collapse 36氪",
+      "publishedAt": "Fri, 27 Mar 2026 10:35:03 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 52,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 5.6665455555555555
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "Castiglioni Codex Announces Availability of Rare Pierre Boulez Editions Following New York Philharmonic Exhibition - The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmJTMVRFdnlkaG4tWXhDOVhfZ0tSWFMtQ0VoZ3psd2txVkFuV09CNXFGakNoaXN6d0ljcld3T1lCbzh5X042M3B5N201NzhYNDFoQm9nY1EteHBMZW80QlBRV0RkdXprdHdrNEtRak4tTXJ4MUFaMWEtMWRtVFlnZWRVU3d3U3dMQkdRN2lySURIQkF2TWlSZ1dPa0IwNk9zdV9CY0F1UEZBV3lt?oc=5",
+      "snippet": "Castiglioni Codex Announces Availability of Rare Pierre Boulez Editions Following New York Philharmonic Exhibition The National Law Review",
+      "publishedAt": "Thu, 26 Mar 2026 21:44:56 GMT",
+      "matchedTopicIds": [
+        "codex"
+      ],
+      "score": 52,
+      "reasons": [
+        "topic:codex",
+        "source:Google News: Codex",
+        "title-boost:2",
+        "fresh:<24h",
+        "exact-title-hit"
+      ],
+      "ageHours": 18.501825
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Anthropic: Huge Pricing Issues With Glitching Claude Code Limits? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLWY3V0FHenlGOGQ1V3dOd2JldzZNUXNIRTZFMEM5NDZ5REw1d2ZZSEJWdWY0UVlvTFdHM2x1bGg1ME9qTnBpcTEyWEJ6SlNCUmVKX04tQlRkandNdTB5U1YxUGx2RzhqcmhocDJ2OHRrclNpRjlsOVEtQTA0Z0xPcGg0RkVkTnVFSzhHSzRrbEctWWxoOXJHdXl3Z1hZU2RUMl9uY0NHcHRHZ2d3NkhDYk1pRjA3elAy?oc=5",
+      "snippet": "Anthropic: Huge Pricing Issues With Glitching Claude Code Limits? Forbes",
+      "publishedAt": "Thu, 26 Mar 2026 20:01:28 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 48,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<24h",
+        "exact-title-hit"
+      ],
+      "ageHours": 20.226267777777778
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Claude Code Users Report Rapid Rate Limit Drain, Suspect Bug [Update] - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSDlZVVJfOFhDVUJsZ20yUUI5T0RUZ0VROFpvSUdBZHZoUUFMLWJZWm5vWTVDMTBYaDVKbjFlZllEbm42S0lDUDRUd0hWRTFtSlhvYXhnbU4wT0RWdkNWUm82bU9yTm9HZ2VJZnRPVzd1MTRCaW1hRnhzRUZDRnhnWkNaNTBxUmQ5T0E?oc=5",
+      "snippet": "Claude Code Users Report Rapid Rate Limit Drain, Suspect Bug [Update] MacRumors",
+      "publishedAt": "Thu, 26 Mar 2026 17:10:48 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 48,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<24h",
+        "exact-title-hit"
+      ],
+      "ageHours": 23.0707125
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "How Claude Code's new auto mode prevents AI coding disasters - without slowing you down - ZDNET",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNSmRXRHY5bEtLX2phMEZtU3ZVSTlxZEpQNHpqR3JKRFJoQlRqQTh6NHJsUk82MlBCakFMMTZkLWljdlFpdEFtd3hFRDQ2dXRTMlFIQ3lGZWpUSTJha253X293?oc=5",
+      "snippet": "How Claude Code's new auto mode prevents AI coding disasters - without slowing you down ZDNET",
+      "publishedAt": "Tue, 24 Mar 2026 19:00:00 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 48,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "title-boost:2",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 69.25071194444445
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "OpenClaw Hype? Emergency power supply for Mac Mini launches on Kickstarter - Notebookcheck",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzBKcm9xZS1mdUdiMmNjYkR3SlJsamZ5Q3ZadmFQVXBFYkVQN18xc01YLTFsMmE4UngzeXhLVGVfenhEVHZ1Y29KLUhxTTNnVWU3Sl95NnRnemxKLXZDenF1T3ppOUdWbUhZbGZBTzhkcTFBdlNwQm5YSkplQTc4clNNZWJVV0N0eWFEMFdMQjFfQnNrMnJvcWZ2V3N3VGZxdHoxYUVCc3RmOXE1Rjg2NTJEV2RHdS0zT3c?oc=5",
+      "snippet": "OpenClaw Hype? Emergency power supply for Mac Mini launches on Kickstarter Notebookcheck",
+      "publishedAt": "Fri, 27 Mar 2026 15:17:00 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 46,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 0.9673841666666667
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "ClawPhone: Redefining the Smartphone as a Living AI Agent——the first native Android app for OpenClaw - Pandaily",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSVY5R3ZabkRVUW44a2x5T25jajloVFphdmNBbmtBbEM2WFA2cXRMNG5DWEVaOXQ3NDlhcDhHT3MtX2FHWk1McE9zVm1IaFAyMVBXWmtTM3Y4YkY3RzJ5bFloZXFLZE5kNlo5bU9Ec1hGbFRSNEY4LUl3d21kWnZyZk03ZHdWTkloNkZjcy1TdVA0bUxXelM5Q2ZqWEgyMHA1R29MdEdweFl1MEtwNEp2MEg4MWNmcTdYS2xqQ1Nn?oc=5",
+      "snippet": "ClawPhone: Redefining the Smartphone as a Living AI Agent——the first native Android app for OpenClaw Pandaily",
+      "publishedAt": "Fri, 27 Mar 2026 13:44:37 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 46,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 2.5071061111111113
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "Beijing's AI competition explores OpenClaw promise – and boundaries - news.cgtn.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZld5UThadFNIMFktZlFSQnZqQ3RTdXJELU13aUJZNldmWGFwWkpnWElsWXg4anNnM2I0ZzVzakEyZWxiQzIzYzNZU1RuWGRRendHcUduOWtfOTRnRGsxa1pleFZYbUtkRVVkUVVrUjJkbUNwX3ZBNFlBa0dPZE81eXZYbnVzWkdxeWo4X21NTm95eHdlNzN3NWFWMkxwMWwtQzgyUkJlX1R2RGQ3UFBGSVZ6WTJGMnp4S3BMZEtNVQ?oc=5",
+      "snippet": "Beijing's AI competition explores OpenClaw promise – and boundaries news.cgtn.com",
+      "publishedAt": "Fri, 27 Mar 2026 10:28:35 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 46,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 5.774328333333333
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Claude Code Auto Mode Brings Smarter AI Coding Workflow - SQ Magazine",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80NEkzNllLakZldXVZS0s5cEJqY0cwc3hTWDhUU3pycEYxazE2MHdxYldXdy1ZVFhteGlNX3d1TUR3SmZmMHozWTdjbk1pcWJKVFcyY0ZrOF9fd2ZldndBbnBSaFFLUVUteVM0eE9TdmtwUUtU?oc=5",
+      "snippet": "Claude Code Auto Mode Brings Smarter AI Coding Workflow SQ Magazine",
+      "publishedAt": "Thu, 26 Mar 2026 13:48:36 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 46,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 26.440713055555555
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Anthropic gives Claude Code new 'auto mode' which lets it choose its own permissions - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVnpKM3h4TURUX1RVYnJrNTkyTFozbktJd1hwQWRqSDN4OGNtdm5CUnBVdUlKbFVvT2FFYVo2ZXdFTV81TGtuRUZJNXR2emVOaWx5VXBFNlI2SUFzRWU5dk1NLXQtSmlUdDV1VEdPSG5KeTB1YnlQMG5xc21ZRWJyekJUcFA3VUh4RjNXWDFyM3E5TkhTa3ViSUdTcG81T09WV3BZeWkwdkcyakgxaEUtZERB?oc=5",
+      "snippet": "Anthropic gives Claude Code new 'auto mode' which lets it choose its own permissions TechRadar",
+      "publishedAt": "Wed, 25 Mar 2026 18:05:00 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 46,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 46.16737888888889
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Anthropic releases safer Claude Code 'auto mode' to avoid mass file deletions and other AI snafus - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNS09KSWxTdWRvUXBTSEhGUVVUZHpROUw2WkptVnhrT2NPeGdWYi1LQlB0X3VyRjZZNWFkTGN4VVpLTzBHLXdyQ3RNVXBEVFBvZFBaNExjd3hhUWJPT1JvOFRXYnZ6ZGRDNHZxclhyX2Nld2RRS2d3TmZYOC11S1ZySFdTdUVEclFJeVpUUGJGbXd6d2ZaSjZWNXlXOTNYN1Q5dTdKS2JISVdVYVY3WlJadUV4a1d6N3Job3JWaUFUTnloN2xoX1BEbkxJOHhYVE1SaHpXYg?oc=5",
+      "snippet": "Anthropic releases safer Claude Code 'auto mode' to avoid mass file deletions and other AI snafus Engadget",
+      "publishedAt": "Wed, 25 Mar 2026 14:25:00 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 46,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 49.834045277777776
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Anthropic launches auto mode safety guardrails for Claude Code - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHdVVGE5eEhTb1RoZjFnczRvcy0wanU2Zmo5bTZrWEpld19VTXYtdlZnVHlLTUJ0WFNONkIzaUEtN2k1N2FSRFVSbmlrV21YMDBpdGlEd3pMZEhfYVU4c1NuNURhdUhNNnZBcnRhVFV6MF8yRVlSSWlTRXZKTnVaR1pRU3ZsMldSRXNhSkJzYk0wUlZ3MWVlaFoyNA?oc=5",
+      "snippet": "Anthropic launches auto mode safety guardrails for Claude Code The Tech Buzz",
+      "publishedAt": "Wed, 25 Mar 2026 12:09:00 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 46,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 52.1007125
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Claude Code's new Auto Mode tries to balance safety and speed - the-decoder.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWkzOWRvazk0cGlHNlo4bFJiYUl1c1VWWkZvdzdtYURDWWVNYXNyQXd5Si1YRW5RY3NhdGNjeldyNHZvR3dvdmhjR1NNLU5vd1NsYjI2cnExQzRwWHBIOExZdkVIWHJzV1gxMHRHOUZuT1JxY1B1VUZhNVJXQjZ1SlZDSUlrMnlpRXI3aExB?oc=5",
+      "snippet": "Claude Code's new Auto Mode tries to balance safety and speed the-decoder.com",
+      "publishedAt": "Wed, 25 Mar 2026 10:00:16 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 46,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 54.24626777777778
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Anthropic Adds Auto Mode to Claude Code to Reduce Permission Prompts - The Mac Observer",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2NIU3JvTkYxV3daUkhGY29EdXNZRnlqaEJQR3lkNzFPa2ZUYlcwUDNkNGg0S2NPR185RGxSTnNGMzQ2SkpDTy03V2dTNVlualpySk1uamVwanU3MGtxMkpPVmFyNzR4NUZsOHZmbTVzVFk5SFkyLWdSeFVaMXV4Uld4OTB4VGM0eXB4eU9kMm9sQ1lTZ1hjSWE3TDNNcFdvTE45SQ?oc=5",
+      "snippet": "Anthropic Adds Auto Mode to Claude Code to Reduce Permission Prompts The Mac Observer",
+      "publishedAt": "Tue, 24 Mar 2026 19:43:41 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 46,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 68.52265722222222
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "Introducing the new full-stack vibe coding experience in Google AI Studio - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEdxS1B2dVFEY3hOMnNud21TT3BlcnlOOXlDcEZxRlBOV29UOHhILTRjaUF5czJlMzVqMGllNmlBak14eGZxR3RDZ2xIZHdiNXFpcTBZU2piSHBva01xUEJtVkZfdGo4cFlEaThCM2tWa2RyZWt4MWFhV2ZjOVRpYWhxOFNWQUF4OUd2cEVJdmxZQ3F4U2ljWGJ2U3VNbUdzdnNwZkVZZ05LZw?oc=5",
+      "snippet": "Introducing the new full-stack vibe coding experience in Google AI Studio blog.google",
+      "publishedAt": "Fri, 27 Mar 2026 15:42:02 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "title-boost:2",
+        "fresh:<12h"
+      ],
+      "ageHours": 0.5501622222222222
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "Tencent Bets on OpenClaw to Make Up for Lost Ground in China AI Battle - The Information",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU2xGUk4zQzJzaUVoOHB4dTByN1p1d2JyUTY5aXo1Ui1QRHo0UjZvVWlkRkpfd3hwdGhXekZ2WlcyMGF2UTl2c2gybldSajdyWnV0c2lFNTJTdk1pZWNYbDg4SWk2UnZkLWZMRGFKM0RFd2haS3ZmMWp4TmtWZDVHNnY4a1dFME5kNDFraEdmYUY0ZHpiVkRKQkJR?oc=5",
+      "snippet": "Tencent Bets on OpenClaw to Make Up for Lost Ground in China AI Battle The Information",
+      "publishedAt": "Fri, 27 Mar 2026 13:00:00 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 3.2507169444444446
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "OpenClaw effect: explosion in AI token use adds fuel to Chinese AI development - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUJtSm00UWVMdnVqdTI1ZkpJNXFyT0VUNlRBUHIxLXZZY0o4ZTNDYlV4QnBORmhGZ0dock1XbHlMTUtsS2tfVDRJald3bHpwMWNBNGJpZE9NaDFiUllrSWJ2Z05YSUVRUHlXeGd6S3dDcUljdjhLMmtUYm5mTmtMMEFvNmQyWHF1MWVEa0wwODdTajJhTHVJckxXdl8wRExWWGhnZERaby1oWlBheUxTelBhUFlkQ0hFaW13eno2QdIBvwFBVV95cUxPNldfR0J0OVJ3SXZmOVJaRHdxUXRJSFl5elNCWUZGbmt4Q2g0S0VEYzFZd0Z6eEtpdWVqczlSOVl2N0Fmd2p6cmpSQVQtUkFuTjM4Unhsa3h3eHhRaVpvVU1qTjdzeHFzQ0I3Z1FXUEJ0RnFxS28xdVlIYTV1N0FZVVg3RXNJQTlLQ1FtdXFpQWxsZTAwU0ZMT1ZfUnU3SlZHc2l4dTFHNEotTFh4S21PYXdWeGNBYlFxV0FnWGdxOA?oc=5",
+      "snippet": "OpenClaw effect: explosion in AI token use adds fuel to Chinese AI development South China Morning Post",
+      "publishedAt": "Fri, 27 Mar 2026 12:30:16 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 3.7462727777777776
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "OpenClaw Founder Interview: Why the US Should Learn from China on AI Implementation - BlockBeats",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PMDFSLUNkYjJHdnFjRDRIWlN5WTdta2dlb2UyeVBDZUxCVXR5aFNkTlBUTUhqVlMxZF90RkdNd2RsV05wd1gxc2lla2IyMjc4d3hURA?oc=5",
+      "snippet": "OpenClaw Founder Interview: Why the US Should Learn from China on AI Implementation BlockBeats",
+      "publishedAt": "Fri, 27 Mar 2026 10:12:53 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 6.035995
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "I went to an OpenClaw installation event at Tencent's office. People were raring to go, and the FOMO is real. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHZ5WFVxUV9ZcFV2MWtnelpkTnFVTjBBdWRzX3d0YXJ1TlNMZ0tWV0RkXzBUdFl0SEM0WmFldjZOdTMwN1ljQWltZkhRSktiX0ducmltdWdUdDl6Tm9yTVRNcHZsOVpDclotazNCaGVnSDdPS2E5QzNZcHA0dkRJVTI5cG5XTnRfZTF1XzBSS2x0ajRmbThseGZWZFVEMkgzZFlVUmE2UFBlWVk?oc=5",
+      "snippet": "I went to an OpenClaw installation event at Tencent's office. People were raring to go, and the FOMO is real. Business Insider",
+      "publishedAt": "Fri, 27 Mar 2026 10:04:00 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 6.184050277777778
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "OpenClaw Advanced Tutorial: From Intermediate to Expert in One Guide - HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOFljNnBUbzJzNlR5dmdpR25kaFA2UkVycEVUSllBVWF0YkZ6QXVYMFhDRWpteHBlTUNVbmNrZEc3X2l0aU55QmxiNVEyVUhzT1VlbEktRXR3MTg2SGI2NzhLWWxmT3ZWQzU5LUVJV3FMME9vR2xPZnB5b21nbXpEWEY5MzZHVk94V2J1OWY3VXlBT2Z0?oc=5",
+      "snippet": "OpenClaw Advanced Tutorial: From Intermediate to Expert in One Guide HackerNoon",
+      "publishedAt": "Fri, 27 Mar 2026 08:25:17 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "fresh:<12h",
+        "exact-title-hit"
+      ],
+      "ageHours": 7.829328333333334
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "Hostinger launches one-click OpenClaw AI agent deployment - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUTBuOUZUcGNJOVlPRklieTY0VERWNEwxWUlSWEFRMndXYWpOZW12enVXTFhsYzl0WVZDb0luSXBTbldlUkxCN2h6ZUpaeFM4M3FIbkMzUXVQdXFaekIwd2FXM0NFOHBwSGtsdlY3RGlQUy1hZkc1Qks0QlVUV3ROOWFuNF9lYmR4ZVFxZm1YYkd3ekZCQjllMXB3OEV6cmhoVEkyOF9mb0lEbU9mMzBSMThFZkJ3VGFVekNuZ0Q3dVVJcW9fSDl4bm5obkdLU2VKbGxiYVp1enlOWWtuaVR3aW9aX1RaZWd0Z0R1bDZNYzlFSW9QZzNhV285WUJxTy1PcG80TA?oc=5",
+      "snippet": "Hostinger launches one-click OpenClaw AI agent deployment TechRadar",
+      "publishedAt": "Thu, 26 Mar 2026 20:45:00 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:2",
+        "fresh:<24h",
+        "exact-title-hit"
+      ],
+      "ageHours": 19.50071722222222
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "90% of Claude Code Output Lands in Low-Star GitHub Repos - WinBuzzer",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZmRMYVZtWDBZOUxocDY3VlZlZkZZS29rbW16SndjVTBOdFRhX1JiaWQ1S3lMcnE3UG84UkFoRUNzT0djenk3eU1rTGkzRk10RjJzYkZtTW9GcXVtd0pwdmJGenlzQU9nb09uUUdENTRrbmRiYWRRSjRTRlVKc3Vwby1KTF9PbEJWTHdQQXgxbzVIOUhQVVNj?oc=5",
+      "snippet": "90% of Claude Code Output Lands in Low-Star GitHub Repos WinBuzzer",
+      "publishedAt": "Thu, 26 Mar 2026 13:59:50 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 26.253490833333334
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "I built a web page with OpenAI’s Codex in 5 minutes. Here’s how - PCWorld",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZE5tbERwbUlOdDgtVkh6Zk9PNnlxSnRPdHhydW5PNDNHWkRJazlJQm1BRkZkN3hIeDZTTmxKZGg2T01qU3JjV2w2bzVObGNBRUs0RUN3aEFGTEhLVS02bFluUUEza0hhV3o2YVd5dHczMzhONHJjSmdNbTdrX19uWFhKZHVwSVdyRVF0RlRGalhiU2tXd3V6T0ppdw?oc=5",
+      "snippet": "I built a web page with OpenAI’s Codex in 5 minutes. Here’s how PCWorld",
+      "publishedAt": "Thu, 26 Mar 2026 12:30:00 GMT",
+      "matchedTopicIds": [
+        "codex"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:codex",
+        "source:Google News: Codex",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 27.75071388888889
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "Ariana and the Elder Codex now available for PlayStation 5, PlayStation 4, and Nintendo Switch. - RPG Site",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUlZRWF91RUY4RkliM2RKWkpqUEdRZFlKOFlBLWdiWTRxNG9zenAzelVvRGlUTWRELU85Wm83b1IwZ0JnSGZaOWdYclM2dDJFc1FWa1VqTGFPUVFKeHRaaEFrQjM5OUxSbjJDVGdiem5BR0gybFI4Q1hRU2RuaG01VXZaWGRLTzdXQXRIdVQ2b3Jfdm8zTE9jTkJ0TTJxX1dyTE9mWFl0MXRlQ0FOVjZTbzRxNWNpQQ?oc=5",
+      "snippet": "Ariana and the Elder Codex now available for PlayStation 5, PlayStation 4, and Nintendo Switch. RPG Site",
+      "publishedAt": "Thu, 26 Mar 2026 06:25:11 GMT",
+      "matchedTopicIds": [
+        "codex"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:codex",
+        "source:Google News: Codex",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 33.83099166666667
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Claude Code auto mode: a safer way to skip permissions - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wdDVZM253Y25vNDF5eHYwVmltcUlBTjk5TF9zcW5sOVh4NExDUkU4WFVmZnNUbGhpN3dUMnlpNFkxVVY2NEJWcmQ4dWVXU2pEMllJbmc1QWJucHFfMVB2QjYtVUhVaTJ1T3g0?oc=5",
+      "snippet": "Claude Code auto mode: a safer way to skip permissions Anthropic",
+      "publishedAt": "Wed, 25 Mar 2026 22:47:44 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 41.45515638888889
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "Ariana and the Elder Codex review - Tech-Gaming",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCVVE5NjdUc0pvanFQTllud1NRd3hMSWR4YVYyQW9YS2ZNbEdZXzh2YVlXNkRjak5hdmVEWVBBRVVhYVE4TzVscVFsT3VYcGo1bFBZYTIxeXRBTUhFN2I0Uy03bEd3UQ?oc=5",
+      "snippet": "Ariana and the Elder Codex review Tech-Gaming",
+      "publishedAt": "Wed, 25 Mar 2026 22:31:24 GMT",
+      "matchedTopicIds": [
+        "codex"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:codex",
+        "source:Google News: Codex",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 41.727380277777776
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Claude Code AI tool getting auto mode - InfoWorld",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU0hzdzJlTWp3NlA4aXRxdmp1ME1LWEF4NVp6SEE0UXB6M2FxbUZUMENobEpvaVNDbzg3Z1dwbHJCdTI1VFl5TEVBd3o0aFhpSWJIb3hGN2stUmpfNGtaQW9YTzBDcGdySzdoTGdJYnRLVUY4a3FKNG15X0lmbXAwUnplNWFhbS1MblNUVQ?oc=5",
+      "snippet": "Claude Code AI tool getting auto mode InfoWorld",
+      "publishedAt": "Wed, 25 Mar 2026 22:22:31 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 41.875434444444444
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "Ariana And The Elder Codex Is Available To Purchase On Console - The Outerhaven",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEJjMVJaekFic2hQSWkyelBRR25wRFRSdlpLSnZhMmdhSXh0T1VIVW5qN3NHaWt5c05Ba3p1ckVSN2ZIYjhHSjdQdUZSaUxITUpsR3otVENodk1SWXBqUzZEUnJaTExRNmhWZGtVSWNjM1dYSnZHck9CZ29KdHJma3VncFEyZEctckFPU2xDOW8wYnA5b1p2NQ?oc=5",
+      "snippet": "Ariana And The Elder Codex Is Available To Purchase On Console The Outerhaven",
+      "publishedAt": "Wed, 25 Mar 2026 20:29:35 GMT",
+      "matchedTopicIds": [
+        "codex"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:codex",
+        "source:Google News: Codex",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 43.75765833333333
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "Ariana and the Elder Codex review - GameSpew",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GY0wtcHVyUDJENWsxTE1jU2JqS2R5SDJUT0syR2hrME9sZDlmbGJVd0RPd3RZbDA0akNkRkFJR1dDRWcxSUN3M3R6QmNZaHA0SmxfX2hKTnNfUWN5bm9FRWk3S1dpbmp3Vnd4VkFzNmQ0WUl2bkE?oc=5",
+      "snippet": "Ariana and the Elder Codex review GameSpew",
+      "publishedAt": "Wed, 25 Mar 2026 17:50:58 GMT",
+      "matchedTopicIds": [
+        "codex"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:codex",
+        "source:Google News: Codex",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 46.401269444444445
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Claude down: Users report issues accessing the website, Claude Code and app - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQM2VDaHNsd1dZejE1UkxKNWhmdVZDWG9jSTQ5dF9UeDlqcEV1U0ZTNlF6ekZkSVpLZllIUEUzQU8welFEWXVGdUhKQU1RRU93RHlWQ1FHLU5rc09RUldjZ0FIWHltUlFjV3ZtOW1oWHlibXdMVnRIUDEzLUY4TDJNY2VCQ0V5VThGWWRNaVBDcVhCbXBNTE1nN19BTlgtWmtpRUkzbTdXSTVacWJkTnZUMW91OXFCUmRqQmJsMVNFdnpoQjNDRVdTUGU0S1ZVZDl3bnpETHhzcF9aU3AxMTBLeVVNNE5GVFI3VlBOMtIB8gFBVV95cUxPakd5djFmV2tDVkRmOC1HVE9PMk1DQ0hHMWZHT28tQ2RoZ1dTeXlYVkhpc1pwa2NXcEd4b2N2dElZZTdiY3VQMDd5U3JMVnNKYXlMU2NTUFp6VnRIelhmMjgwRGw3MWJFa3ZzZHZCYVY0OENpSXQ0bXVxejc1NTRmd1RmdWZ3NGdLUWpva3hDbWNNeHNxTjg1X3ZrM2RzdGlqaHVKVzBzOG02YkJOLUEycjI1d2dsMUhmZmp2azk1UmhPcHl4QTZiVnBKQVAySG9zSGZFUnVZQ3Fycno3Zzg0WEN4ZjZLR3pqT2c4b3hlU3RMZw?oc=5",
+      "snippet": "Claude down: Users report issues accessing the website, Claude Code and app The Economic Times",
+      "publishedAt": "Wed, 25 Mar 2026 15:28:59 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 48.76765722222222
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Anthropic Unleashes Elite “Auto Mode” Feature on Claude Code. But There’s a Catch - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSFRRUjI4Umh1RTRneEFoMVRUR2NOUVdmQXd1LXV2ZW1UUHBpOFdxRldadlBPYmh1N3o4cFZvRzB1STBjU0ZQWXNxbE80NU53SUxoeU9SMWRjcFdrUXIwSG8zUDZET0RXN3ZsbWFIUHRCbkRZclNJdXA4N0lZTU5WYVgyc0Fmcmc3ZkpZdWJyN2dTdU9HQnBONGtLTXpmRFNPbE15Nlk1Qlh2RHc?oc=5",
+      "snippet": "Anthropic Unleashes Elite “Auto Mode” Feature on Claude Code. But There’s a Catch TipRanks",
+      "publishedAt": "Wed, 25 Mar 2026 13:22:31 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 50.875434722222224
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Claude Code Can Now Write Directly in Figma Canvas - Analytics India Magazine",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3NlQWdkLWxiY3lqNWVVSTlOb0JPWkZHcURvRWJlWTlIRWhXbjdCR1FtejFFWnlsaXVEVEYyNW9MT282S2xxb05GLWVMX0hPdG1WOTJiSkNKMnRPSlZWOWExcGtCWkdRQ0lFcTEwc1FIUEs0VEFlVFQyNkJ1Vk1WUlU4RjhJUEk5YmltQXJYem1RUQ?oc=5",
+      "snippet": "Claude Code Can Now Write Directly in Figma Canvas Analytics India Magazine",
+      "publishedAt": "Wed, 25 Mar 2026 13:09:02 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 51.10015777777778
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Anthropic’s Claude Code gets ‘safer’ auto mode - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcjhTbkx4MUxRSGRHdzc3aExyQVVKeVFIa0Q3NzBWNnQ1bzlKeGxaaWl2VEdjN0hIaGdWYkFZTWk3TUF6NUFqY0tmVENYNl9ZOV9HSlhWelBmbmVBVWFoUU5SNXBvQzRaUW1kTE9LOGdyYWJxYnpKekxhSTh1dGEzUC1SOHU5Q1lFTFY0Q0pDQmNVbER6?oc=5",
+      "snippet": "Anthropic’s Claude Code gets ‘safer’ auto mode The Verge",
+      "publishedAt": "Wed, 25 Mar 2026 11:39:46 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 52.58793416666666
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Anthropic’s Claude Code Gets Auto Mode, Cowork Gains Desktop Control - WinBuzzer",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdlpuR19GWTV4SVRzUXAyNjhMeWlYVlhYMmg2MlhfdHZVekZmRDlzcEc1b1ppSXV4dHFDTVlSTGFiUWpFcDRBSVBTRnd5MW44YmJwZlBtczNQa25BdzdKYU4tMDc1SlQybm00N0Fwb2xvX2g5YkxQNmh3ZWM3cUdONXdYeWVhS0t3T1RKMW42a3pKSFVHRUFj?oc=5",
+      "snippet": "Anthropic’s Claude Code Gets Auto Mode, Cowork Gains Desktop Control WinBuzzer",
+      "publishedAt": "Wed, 25 Mar 2026 11:09:37 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 53.09043527777778
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Claude Code gets auto mode to reduce interruptions - Techzine Global",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM1BJTndZNHJtTGdjekpES2EwcWVjaDllcWJlMXF4d28tcFE4M2RZTFZKdEswWmgtSl9BN1F2YmNYZmI4SGZlR2U4NWNNS3pLRW5IODEtY0pVUzVsLUZzRGdreXZ2dlcxaEZMN1YyWmRIdjR1c2hPQkpHck9EaUFRLXp2eUc2ZnFuS1pVMTZkR1UzbkpIUkxrYXhR?oc=5",
+      "snippet": "Claude Code gets auto mode to reduce interruptions Techzine Global",
+      "publishedAt": "Wed, 25 Mar 2026 10:59:02 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 53.266823333333335
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Anthropic trims action approval loop, lets Claude Code make the call - Help Net Security",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTjR3Y0lFSzd4WTNDLUNRb1BoX05YVzA1MnBDVTF1ckNQVnRsWkZNQkxRVTRNQ3cxcEV6aEF5Zl9XaGNMQW9mSFh6akp3Yk9JM3N4bTBGcDQ1SUJvdDRoVklyYTRpUGRjRHVOTU5BOWtQbTlwTVBiQlNaT05QdGJ3QTh3TUFkNi02MDlJ?oc=5",
+      "snippet": "Anthropic trims action approval loop, lets Claude Code make the call Help Net Security",
+      "publishedAt": "Wed, 25 Mar 2026 09:03:30 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 55.19237888888889
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Anthropic Enables Auto Mode For Claude Code - Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDE3a25mRzNibFEtSkREejJYaFVpaS1TVmxDRjU1aXZxQzJRRWpkZHd5UUpmaUFpSmNPVGFFU3ExcW9uQjc3bXhzX2hLVE9McXY4UWt0cUh3RlJZNV8yUU5tSkl4QWgxUDFxa095bmN5OUNmZ0R2MWRiYmlBVE9tTkFQaXYxb3B3dmg1RVln?oc=5",
+      "snippet": "Anthropic Enables Auto Mode For Claude Code Let's Data Science",
+      "publishedAt": "Wed, 25 Mar 2026 03:53:32 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 60.35849
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Anthropic adds permissions auto mode in Claude Code - SD Times",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1Eb0hIM2xZWjZPTVNRZHVPY0RWb0cxMUNHdnFhcURvWlF4S2dPV1NRUlFlaWJXQjdEbzVybUtYaE9Ndjg?oc=5",
+      "snippet": "Anthropic adds permissions auto mode in Claude Code SD Times",
+      "publishedAt": "Wed, 25 Mar 2026 00:38:28 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 63.60960138888889
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Anthropic unchains Claude Code with auto mode, allowing it to choose its own permissions - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVBoWVQyWEQ4d3ZEU3Vsenh3UE1WeEFsVnRJWlhJaXFsZU5laFFLXzJsTFNOeDQzaUNWYTlFdnd5MzRDTGRXR1ZNWHVxMll4cDBqTU42SlQweE51Z2JYM2FuZkJubEJQRkV2OUhoajJVZldJVDI4aGM4bGsySTRjYldLRFQ4WjlHRUx6eEF1WHVPWXppTy03aXIyay1kLUhlZWM5YVJWMnU?oc=5",
+      "snippet": "Anthropic unchains Claude Code with auto mode, allowing it to choose its own permissions SiliconANGLE",
+      "publishedAt": "Wed, 25 Mar 2026 00:37:19 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 63.628767777777774
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Navigating Claude Code: The Bare Minimum Setup - HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00OEtkdnRsenVkQjR2LTJyTG8xZVZSOUthUHhCRWV3UnpVMG1EZDlkaVRiX1Z6Z0RSVm85ZkRnclJPbl85ZS1KS29rLVg2VWhWZGRGT0cwaXowNEhMWmZ0Y1I5dWkxdHVtYmpxWW1ZTDJSeG41NXE4?oc=5",
+      "snippet": "Navigating Claude Code: The Bare Minimum Setup HackerNoon",
+      "publishedAt": "Wed, 25 Mar 2026 00:18:43 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 63.938768055555556
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Anthropic hands Claude Code more control, but keeps it on a leash - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHJiUVFhX0dvRUNOeUFFZk1naTNLLTJQcS1CSTI1a3BCQzBUQWZjWThDcF9NX0FDWVIyYjgtOWVmX3ZKN2hSMlZhbENROVY2MVdpT3VVanp2UlhfYjV1Y0MyV2otNlc5UVRfaUxpd0VLbzNTUkg5eHJkcURJLXl1X2xLZFM0Vm84Y0lSZUpuZlRFOUZTOFJ2dWFHRFg2YWdn?oc=5",
+      "snippet": "Anthropic hands Claude Code more control, but keeps it on a leash TechCrunch",
+      "publishedAt": "Tue, 24 Mar 2026 21:00:30 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 67.2423788888889
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Claude Code and Cowork can now use your computer - Computerworld",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1VZeFBUdDN1ZEtoSGJRTnM2X1lJbTdmMmFTN0JuQ21TMHhabkpxTVJOd2VodFItclB6MzlXZ0hYN0RENldLZ0JYSWN2czRCRUdQYktMbVJMMkNsNlptbUFtZW9FOE9TREF4bVpyM2ItMkxyb0lYbktzOVU0SUF4UkpRQWlHRWNDR1BZYVVzMldkN2trX2pBcDNKeGJaU19Y?oc=5",
+      "snippet": "Claude Code and Cowork can now use your computer Computerworld",
+      "publishedAt": "Tue, 24 Mar 2026 19:53:54 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 68.3523788888889
+    },
+    {
+      "sourceId": "google-news-claude-code",
+      "sourceLabel": "Google News: Claude Code",
+      "sourcePriority": 12,
+      "title": "Claude Code gives developers ‘auto mode,’ a safer alternative to skipping permissions - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmk4QXZVeGJtWDhRWG50b293R25YLVVJdVZoalhHLWFQMHhLeENYSkNWdWxaNDItSWNHMnJGS0ZIbjZXcUp4bUR6SXJKTUdVbGxEZnNfYW13cUVxREx0MVhQT2NjU2RuRjdFZmhTSjdycUE5VWMxZDBjLXZjOTVVQUNval8zakhja0tEbFdsa0xUeGR0MkJKeXdWeW5nRy1pY2o4NlVLbk9UNmtaQkduc2c5c2Y?oc=5",
+      "snippet": "Claude Code gives developers ‘auto mode,’ a safer alternative to skipping permissions 9to5Mac",
+      "publishedAt": "Tue, 24 Mar 2026 19:38:00 GMT",
+      "matchedTopicIds": [
+        "claude-code"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:claude-code",
+        "source:Google News: Claude Code",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 68.61737916666667
+    },
+    {
+      "sourceId": "google-news-codex",
+      "sourceLabel": "Google News: Codex",
+      "sourcePriority": 12,
+      "title": "Ariana and the Elder Codex now available for Switch - GoNintendo",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSVBNbDFkV000eE5SVVlTZHFCWC1jZkUtLWRlS3ZJQmhidFJxR2hwb2E1dmZ0dmZKZWdjZHNXV29OdXFtRzFPZVQ1ZDJwa1NhSHZROEdOc3JWNEZPY0sxNEVsSlVEVGxDVlNFY3hvYklmS1JJLVBzUV83NHBIeVdiY19EQXJqX0ozSjdHQ01seEFaR0k?oc=5",
+      "snippet": "Ariana and the Elder Codex now available for Switch GoNintendo",
+      "publishedAt": "Tue, 24 Mar 2026 17:55:10 GMT",
+      "matchedTopicIds": [
+        "codex"
+      ],
+      "score": 44,
+      "reasons": [
+        "topic:codex",
+        "source:Google News: Codex",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 70.33126944444444
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "AI agent on OpenClaw goes rogue deleting messages from Meta engineer's Gmail, later says sorry - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYzYtNHpIZjJSMVpab0t1LTY2bTJqMVFIckhsbFJLSDQ2ek5JbDMycHl4TE9MVS1jTm54Q0VtXzVWSEwtazZpV0U2QUNtQ3NiMlgxUEpDbGItb0tlbnlVUVZ4OUY1Q0xIRHZMZkNiZnpFSUZKT2k2emNTOHhXN1hKQW5fV3RLOGMxVTI3aXZud1Z6MXdRa3E0ME9qZ1gxZkFnazhKWl9PWmJtOHFULUs3amtYbTVMZzRxYnBnQVRuVzkybHVQaHVILXY3YXVmUnZKOGVfbTNZM2NyUQ?oc=5",
+      "snippet": "AI agent on OpenClaw goes rogue deleting messages from Meta engineer's Gmail, later says sorry MSN",
+      "publishedAt": "Thu, 26 Mar 2026 19:29:53 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 42,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<24h",
+        "exact-title-hit"
+      ],
+      "ageHours": 20.75266166666667
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "OpenClawd Ships Verified Skill Screening After Security Researchers Find 12% of OpenClaw Marketplace Skills Are Malware - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNRFBnRkl3RVF2VWZuVTBBRXoyV1MxcUx0YWRjZjZ5SkFubWh6OV8tZ0lKTmNKVHVEbFhIYmhlaFJyejNPeUp4V0F6SURYWlItWnZvaGJTWTJCRWhMNTJKNTlsYk14aWhoYlJ0WTNodWktQU1tRGVwZlZ1aENFT0RISHRRQ20xamJ5U2FKTzloMkNZR1RpXzhLc09kQ3lyaW0xU0piSXJ3V3JiaTkzalF3cTlLOHlfTjhVZkhYTm40cUw1T08tZmlXeDFDN1FBclNEVV9ZQ2FRUjc1dkQxR3NmNGtNYUVyXzFycWpuZU43d2NMNGNjeFcwUGJSMWlWeVRPaE1EcXlEZ3p2QUowZ0VvLURZMVBGSU5hN0tlcEdldw?oc=5",
+      "snippet": "OpenClawd Ships Verified Skill Screening After Security Researchers Find 12% of OpenClaw Marketplace Skills Are Malware TradingView",
+      "publishedAt": "Thu, 26 Mar 2026 16:42:35 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 42,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<24h",
+        "exact-title-hit"
+      ],
+      "ageHours": 23.540995555555554
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "Anthony Rizzo drops ‘Lovable Reunion’ podcast recalling 2016 Cubs dynasty - artthreat.net",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX2k0eVJya0xTQVpEMUxOdUVURWstT0ZVSXp4Ri1hU0xHaUEta1hZQk84V1VuQXBkTEFZSkV1azdDcmZqQkRjeHlfeFppdWFvV1ZEbEJrV0xfVGh1WlZud3I0enlJSjcxZU5xb0lNZXJZeVdKTWRxWjlfYWt2WDlmRUR3YjN1eDl6VG8yQktRZS04T19mNVJuT3NRM1Y2bldHakdvUzl6MlZHZw?oc=5",
+      "snippet": "Anthony Rizzo drops ‘Lovable Reunion’ podcast recalling 2016 Cubs dynasty artthreat.net",
+      "publishedAt": "Wed, 25 Mar 2026 23:16:39 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 42,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 40.973218055555556
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "Column: Anthony Rizzo and David Ross team up on ‘The Lovable Reunion’ for Chicago Cubs’ 10-year anniversary - Chicago Tribune",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd1ZZSFREZFRHSjNvaFk3Z29GV0p0S1E4cUdjcW1yUkNvemFTNG1FU3MyUmN3MHVxWDhva0xIUnNhQkcwN1I1T09vX2I3Yl9BMUwtZnJESmFHbXh2cXJzV09ueUlpWURBRGdnRVBvVEN2NTRXRWJfTzZzLUs5SE5qZGZVN1l6YTctYTl5TzVPOENRdw?oc=5",
+      "snippet": "Column: Anthony Rizzo and David Ross team up on ‘The Lovable Reunion’ for Chicago Cubs’ 10-year anniversary Chicago Tribune",
+      "publishedAt": "Wed, 25 Mar 2026 15:30:13 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 42,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 48.74710722222222
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "Lovable Partners with Aikido to Bring Pentesting to Vibe-Coded Apps - Aikido Security",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NYV82RHdKWlk2Y3V6TFlWNUVTOVFKUzc4OGlQVERDTnJMS1pXMzZiSTFYeVdNNW9laXB2THRxT3N3OXJSMVZmUldTY2dIcE5MZnEzVExBRUJxVExpdUNEMW9TZw?oc=5",
+      "snippet": "Lovable Partners with Aikido to Bring Pentesting to Vibe-Coded Apps Aikido Security",
+      "publishedAt": "Tue, 24 Mar 2026 21:17:58 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 42,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 66.95127333333333
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "OpenClaw Creator Says US Can Learn From China’s AI Adoption - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRUNmQVcwcVpQVXRITzRXNC1TempoVHA3REJUZWxyVW9mUklKMlctRll6YTkwbVNVOUF0aFJpMWRZMWZEaGx2aDNFbk9jZEV6MVBxQmw2TFZPVGtRQ1dxZWdWcjZYZGt5N2Nyb3BlWXdzUFBWWGpvUVh6R3l3blI3U2s2QUY0Q0hXX1kxMTg2UnJFUk1zek9zcVNHbHB1VWtOQUg3WXY2anI3TzhQRVlzRlAzaw?oc=5",
+      "snippet": "OpenClaw Creator Says US Can Learn From China’s AI Adoption Bloomberg.com",
+      "publishedAt": "Thu, 26 Mar 2026 20:04:14 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 40,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "fresh:<24h",
+        "exact-title-hit"
+      ],
+      "ageHours": 20.180161388888887
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "OpenClaw Bots Are a Security Disaster - Futurism",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM3d2N0JEUGFoM2tnaHR5cG0tYi1EeTduanlUbjdpeDNkMHdFMmRIVjltZjR0bnVqVzlHZ1h2N1N6SE9jSmpIdmJ0T0dGX1FNM2VSZzJzNG5YX0xhMkNNc1pmOG12Vl9qbFViMWRYS2hGbUFtXzg4WUlMamMxU29VWmpR?oc=5",
+      "snippet": "OpenClaw Bots Are a Security Disaster Futurism",
+      "publishedAt": "Thu, 26 Mar 2026 20:01:03 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 40,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "fresh:<24h",
+        "exact-title-hit"
+      ],
+      "ageHours": 20.233216944444443
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "OpenClaw Security Audit Guide 2026 - SitePoint",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGpDdWNtU0hjcy1LMG5BQ1dNNUs3X25hdU5iLW5EbkVvamlEMlBQYml4VEowNG50QUk4Z2lIb0NEeUNjYmM1Z3JsNW4wOXhSZTV3Q3kxX3lJSUY4Q2tMc0FzY2Y3OWNfRUpPZjNEUm1HQ2NaRi1QUnpzdmdRWG1BT2hMMjU0aE1TUnpuSkk5UGE?oc=5",
+      "snippet": "OpenClaw Security Audit Guide 2026 SitePoint",
+      "publishedAt": "Thu, 26 Mar 2026 19:44:50 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 40,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "fresh:<24h",
+        "exact-title-hit"
+      ],
+      "ageHours": 20.503495
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "Generative AI Digest: OpenClaw And Moltbook Make A Splash - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3hrU05vWlhtMkhFYmpYRy1VcjNUZUh0S1pOR2RoVHdZWVRxdndkYS1NSnZaNkYxYjlvdzh4TTYzdm9aV1pOUEd1bmQ1QTVjWXFxMzVZazBIWEdtVjlvc2hTNnY2Z2hRd0hkdE5odkdzc3VtY1VhRGJkTk5qc0RaOF8yWHNfNWgyODZ5Mk9lXzIzR0lwM1E?oc=5",
+      "snippet": "Generative AI Digest: OpenClaw And Moltbook Make A Splash Seeking Alpha",
+      "publishedAt": "Thu, 26 Mar 2026 16:51:00 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 40,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "fresh:<24h",
+        "exact-title-hit"
+      ],
+      "ageHours": 23.4007175
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "Gen and OpenClaw Team Co-Host Post-RSA Event Showcasing the Future of Safe AI Agents - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQmI2WnF0WHZUVlVCQ3l3UWtZYWthSUNUSktTTlVJMXV5eFU3WS1aQlQwNUpxalk5TFNLVzZDeDBpWXJ0WlAyaGJIWnVGOVAwd1RobWVNeGVBVlZFdXNGVG9DRmhUTFlkNi1RWnhjdGlmLVlnSzItOU4wZUhaMEpaU3VIQldpcnl6bVh5akRUWGZGcVFaYWRhSWx6MXZNX28wRFV6X09Qc2dRd0g2dFdOM3dOX1NxX1FTX0lXSWtzYVltRWRDalRuX1lRY1VNM2JtemdoVmphRQ?oc=5",
+      "snippet": "Gen and OpenClaw Team Co-Host Post-RSA Event Showcasing the Future of Safe AI Agents PR Newswire",
+      "publishedAt": "Tue, 24 Mar 2026 17:06:00 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 40,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:2",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 71.15071722222223
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "OpenClaw Is Taking Over Agentic AI And Nvidia Built The Guardrails - oodaloop.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXpnVzMwQkRLdFM5WldQSGNLRHlnY2hoVXdQZHNGRFAwQWRQcW9VSVJJR1NUU1BTYllLM1U5WFhtYVhHVmIxa0pGY1lUUVhsNERvcFYxU2ZqUlZVVlg3ZERnY040ZGJQUUlrU1ktd09mbTJnWE8zenUtYnlVUi1hYW1oVjZhbk9sZE1teUd2RHFMR1VzSUJCa2l6S3ZYNTFPdHdQb3BfZHg0Zw?oc=5",
+      "snippet": "OpenClaw Is Taking Over Agentic AI And Nvidia Built The Guardrails oodaloop.com",
+      "publishedAt": "Thu, 26 Mar 2026 15:39:51 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 38,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 24.586550833333334
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "OpenClaw Is Taking Over Agentic AI And NVIDIA Built The Guardrails - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcWVkSHJtZkRweXNJQUVLdHdHcUIzMTVOSEhDbmFwdEtqTlNlazdCS1RvZDY1VUV3SzV6NzdVQjdiY0xMUTBhV0swNnR4MUN6a3R0MUd4cHlLYVFTcFRQM3p6WWFHR1ZmTHJzVVY4X0RUeUJQMlVXM0J2Q3d3MG5MckpNdURocjk2NWtXelZ3aXhfVmJobGtXNDVnbWc5QmgtZ25MTi0xSXJDY0ttT3Fob0pjSFVlbEVFYlBN?oc=5",
+      "snippet": "OpenClaw Is Taking Over Agentic AI And NVIDIA Built The Guardrails Forbes",
+      "publishedAt": "Thu, 26 Mar 2026 14:33:27 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 38,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 25.693217222222223
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "Agents of Chaos: OpenClaw AI Prone to Panic and Self-Destruction — Report - incrypted",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIX3VVLTRQQlNIeG1HXzh1OTl0Y1RxdS13eXV0UG5MN1JscE5Gb0RBR2lRdEdwRzhjcTBIdDhTRzJ4blc4SFBIZmxLUHR4ZFYwOWlzVnBObXJ3Y1lXSTRVTDB0Rml3WXlFMXBZ?oc=5",
+      "snippet": "Agents of Chaos: OpenClaw AI Prone to Panic and Self-Destruction — Report incrypted",
+      "publishedAt": "Thu, 26 Mar 2026 11:25:14 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 38,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 28.83016222222222
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclZSVE1FdTVDSWdlLTc2SWlPX3R0MW1KSlRYbDhtLWhJei1hemU1Tm9sS2c4UnRzM1ljUmRGRGg0UHBrSGN5Q0puR3VlT1QzdHUyUXRVTHhncHhsaWoyV1g2R3ZPUDJaN2lUOWw4cjlDRFpHSmVXVVEzUTF0ZWRpanVOS21GWlJmN3Q3QVpsS0w?oc=5",
+      "snippet": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage WIRED",
+      "publishedAt": "Wed, 25 Mar 2026 18:00:00 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 38,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 46.25071694444444
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "TECNO to Debut First Smartphone with OpenClaw-Powered AI Agent - Android Headlines",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdkJ4SFB6d1NJNUFuY1k1QnA5UW9IdnlVTU9nSTk5S0hSNjR5UGVObTRBOGVzOGh1Y0poMXRBYXZXWkhCVTdKQkJtZFpsbWwyejI2bjhvdnB5c1d2eE5RNldCVnhnVi1ObWQ5eVBvOFB6Qlhfa0NTQlBENTVSanJjTk4tV3ltYUNvWlVqSk1VNDFYTVZjTzE4NHBsdw?oc=5",
+      "snippet": "TECNO to Debut First Smartphone with OpenClaw-Powered AI Agent Android Headlines",
+      "publishedAt": "Wed, 25 Mar 2026 13:59:40 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 38,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 50.25627277777778
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "TECNO Integrates OpenClaw Enabling Mobile AI Agents - Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlM2aG1TeFV2WWlTRnZzNHlyNXRuODFLVkY4cThiLWRUQkJITGRZQkJaOEYxa1c5N01FVTlLTS1qaldnNTFGXzBPeWMwRVFYZmg2dGFodmI4OUdZWG40N0VMMzM5NVRkb0lFTmV6dnR4c1JTTmdyaVlWOE9UQzdON3Npb3IxX3pMa1BWa3FoSW9nNzJud3NTcg?oc=5",
+      "snippet": "TECNO Integrates OpenClaw Enabling Mobile AI Agents Let's Data Science",
+      "publishedAt": "Wed, 25 Mar 2026 13:59:08 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 38,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 50.26516222222222
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "Hostinger makes OpenClaw easy for non-techies with one-click setup - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVl9Fa3hoTG9iUFQ5cnBIeFdkT25EclA4SXlFSDhyMEpiYzdSRTF6Zi03MFZNUHc4LUJwMGZ2R3QwWV9uZndyc3pPOHlLSFVUVXMtU1lMOXdaSXNuRWJxMTlPVzdFRnVHX050TUlYUDdTVlFGby1Mb1A5aWZOQ0JueVJfUkxwNldpcUZ5cUlNVW51MDRNcDcxN0NqYjVCUlZfcTVWZHE1UEQ5QkZKbTVRcDhBdmoxS2paZmx3YXFyeEQtNzNqeXRHcXZTSmM4QlpJS2dGRA?oc=5",
+      "snippet": "Hostinger makes OpenClaw easy for non-techies with one-click setup GlobeNewswire",
+      "publishedAt": "Wed, 25 Mar 2026 13:57:05 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 38,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 50.29932888888889
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "Why OpenClaw agents are the next big enterprise challenge - Computer Weekly",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVmktek9JdDc4eHVUbjBVZnNXTVp3eldyN0Z4SlRGYmRnRUFUVERtOTBDOWxTQjl0ZG9wZ3FxZGxSUFRJREIxY3dRWGVLdmdtRUZNV1dCZkZkaWNYUWFDb0NuNnM5aXdVMlNZOGctR05hc3otQUJ2LWd6MHA5ZHlRMk43ZVZpejhnNU5zQmtzN0p3eTRha3EwSDBhZGdDWmVzelBic0FR?oc=5",
+      "snippet": "Why OpenClaw agents are the next big enterprise challenge Computer Weekly",
+      "publishedAt": "Wed, 25 Mar 2026 10:29:51 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 38,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 53.7532175
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw - SecurityWeek",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTDl2Y2hsMFBqQ0VMWkI0b3BjZkdObHpZSHhGY2FGZUYwaUVCNGxmb09zeFExa2lVTlZJcm9rRU5pYXVWY3dFdXVtQUd3Q3ExYU8zQWx0dmtTR1UtM3ZMbWlCclR0c0pxUUllb0thdnQ0OEsyRG4zbl9YNnRySnY3akFrQTdrZnVENFRGMXdPa0MzZHRsV0Utalltdkl1QdIBowFBVV95cUxQTGpiTFpuSEVxZlU5aUJjTjFuUG44Y2ZvTl9WSEt6Y2hNUXBfb05yOVBFUV82TUlxZ1hfaW9mcHFXUlJVUXVpWWVOVHV0RjhLNXhIUGZsWVd5a19wS1BBVkJrd3QxZjc1cHVvOWZKc1htMmxPVmxuX0hGeFQ2UDZtLUJlVTZOblUzTEhYZVVVbEJHblhvbXMyR2J4emZKUTFUelB3?oc=5",
+      "snippet": "Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw SecurityWeek",
+      "publishedAt": "Tue, 24 Mar 2026 18:27:48 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 38,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 69.78738416666667
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "The race to create the new, safer OpenClaw - Tech Brew",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5S3Z0TlAyNGVNU1I4SFhtbllnWDR1OGJuQmJwRng4X3ZFdEZibWFIb0IwU2tNR09yR3I3Q0wwa1VVQ0RKS2dhVkRJcUp6am5abzBGRFVLMGNQMnE5Sks4d2ExemFoVmEtS2FKNGUtWHZhVkV0V2c?oc=5",
+      "snippet": "The race to create the new, safer OpenClaw Tech Brew",
+      "publishedAt": "Tue, 24 Mar 2026 18:05:39 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 38,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 70.15655055555555
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "ClawFlows: 111 Prebuilt AI Workflows for Your OpenClaw Agent - SitePoint",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jTGQ3OVUxODBEbFFrTmEwUVdCY0g1QThwS1RLc0ZncGl4MjNoLXh4UEdNdmRXSC1iU1d6Zzg1Vl8xcTZGM1JRS1RJS1FpOWFVSmdMdnF2bGlweENmdTVvb0dWamt0bjFsd1pYN1pGWDFhSmhyV1E?oc=5",
+      "snippet": "ClawFlows: 111 Prebuilt AI Workflows for Your OpenClaw Agent SitePoint",
+      "publishedAt": "Tue, 24 Mar 2026 17:14:14 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 38,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 71.013495
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "Tencent Brings OpenClaw AI Agents to 1B WeChat Users - TechRepublic",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLVY4MVVVZTNpaXhXaU54N2N1eEtYa2F2MlpsVHBKaDktSm5sX3hTMnpjNk90a3FHT1ZJV1lKYUROZU80WWtXUGZYNVdVbmQxZGlmd0hFLTVCOHlXNDY2R0owQXIyWnFudjNHMkgweThsVWxXYzZ5eWwyYnNnWTV1Rlh5MEh2aFNsQXRyV25n?oc=5",
+      "snippet": "Tencent Brings OpenClaw AI Agents to 1B WeChat Users TechRepublic",
+      "publishedAt": "Tue, 24 Mar 2026 16:46:35 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 38,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "title-boost:1",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 71.47432833333333
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "OpenClaw is taking the tech world by storm. Here's what you need to know about it. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaEg3R1A3ekNwM3Y3NnNNMTZ5MVFYME1jbzZBWWVHNHNyZ2ZSTEFSR0QzTmF5S1V2dl9UZUd2MTZXSHJZVWoyNmZTYnluOVlyc0cyZzZBZDAzb3RYa20tRllMTy13WC1nYlo3V2YyVzRna0NKTU11MnJ3ZzJPbHNYUDFIc056Q0Q0R0JRUlJVZ3EwM056eGpDTjVRcGdFZ00zWndRb2xzejI0UC1DMXNQblp2amVTR3JLN1hOVG9BazluQnZVTXhiWGVmUVowLUNyTEdDOTBjY3J5TGlieGoxRw?oc=5",
+      "snippet": "OpenClaw is taking the tech world by storm. Here's what you need to know about it. Yahoo Finance",
+      "publishedAt": "Thu, 26 Mar 2026 15:37:52 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 36,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 24.61960611111111
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "Claude is Gaining on OpenClaw - The Information",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazd1ZGdaVUhLWVN1YWwybUZGbGt4TXQ5RVg4REozMU9pRjRoSndPaDVoeDdYQ0dWcVpIZ2JUR3dZNE4wN1l2cXU4WUxuUTdQSEFHdVd3QTdKb1NjV01ocUtxODVRNmRlNmhOeXhVd0VfWDk1VVN6UXlONnJuSVVybC13?oc=5",
+      "snippet": "Claude is Gaining on OpenClaw The Information",
+      "publishedAt": "Thu, 26 Mar 2026 14:25:00 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 36,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 25.834050555555557
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "10 GitHub Repositories to Master OpenClaw - KDnuggets",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wd0VRSjBkNUJ0N1Q5WHhQVnZJaVVfR3B1X0FzR2dKeFRISEs3NGVmNG9mWHhIblY4ckpuM085bmtuSVJlcE1uVWVhLUd5emJKOE5DRVNKQmVzTEJIbTY4LWc3NU1NX3lRYV90MVl3WExxZHB2VkE?oc=5",
+      "snippet": "10 GitHub Repositories to Master OpenClaw KDnuggets",
+      "publishedAt": "Thu, 26 Mar 2026 14:05:30 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 36,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 26.15905111111111
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "From vibe coding to multi-agent AI orchestration: Redefining software development - cio.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTNJQ1M3akVPUWRRbklmOXZqdWhJY0JWM2haY3dLS2pKc1BMTG5BUG5yaUctRC1HYWN0MFZETFh0MnlTbnVseTd6dDNrLXRCX0Zxbk9wTkJQdGgzYWotXzlkOFJFZ2Rjdy1kdkxoN0VTVHVRLVlwa0xKQWhhb0o1U3hKTDgxdHNCNFhpWnA0amNOT0pEUXlFOUNiTGcxRUZjX3lobmdRMDFLd1NmeUlMLVZfa2kwby1WZGVtdE5n?oc=5",
+      "snippet": "From vibe coding to multi-agent AI orchestration: Redefining software development cio.com",
+      "publishedAt": "Thu, 26 Mar 2026 12:02:46 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 36,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "title-boost:2",
+        "fresh:<72h"
+      ],
+      "ageHours": 28.204606944444443
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "ClawStage Brings OpenClaw to Life - Hackster.io",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNmJmWkp0RkFEUjBXNld0djVXSGlGdUVEQWM0dnZqRVU3d205VHpVcm5TUmxqTFhxTVh0NktHdURJb0FtY3VsV1N2SWxWeGdZRjgtQlZMemNWZVpNVFJOSXVISjFxOEJ2ZTRhQmVCWnRuMURKa2pNN1ZodG9SX3VSY9IBhgFBVV95cUxNcU5wZ1RyZFg3M3pYcE9wellFRVhCZl9BOWctYWNOb3l4M0c4Z3Vma2h4VnBrbHhDdzhJbE9tTl9uVDRkbGF5S1hmRnp2TGpPZnVnVk9rYlltUktUQjB1d2tBUEtrajJHNVZqc1Zxd1c5RlpNQzFYekNTS0xSakJXSkhNM3BWdw?oc=5",
+      "snippet": "ClawStage Brings OpenClaw to Life Hackster.io",
+      "publishedAt": "Wed, 25 Mar 2026 16:25:01 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 36,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 47.833773055555554
+    },
+    {
+      "sourceId": "google-news-openclaw",
+      "sourceLabel": "Google News: OpenClaw",
+      "sourcePriority": 8,
+      "title": "OpenClaw is designed to execute everyday tasks so you don’t have to, but what are the pitfalls? - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmJLMU1MVnhpM1JNZENVdUxGb1UtWXptWGlsVHF3RUdlU2NOVnRUZVNmcG92WTk1U2NiTUhDdVliRkRlX2ZDNjdwYWRDcTY3Z1BUT3NNcWJlMW16aGpHMS1mYk5OOWVfYlB3VWVsdFFXTVlNV2p4STF6ekVrcS1Gc2R1S0JHRHo5NmZvX0NqSFhwalNTNWVRSVNKWm13Q2d6UFZ6VVZfRnRPTU9Rd0FtcVE1MHR6M3dJ?oc=5",
+      "snippet": "OpenClaw is designed to execute everyday tasks so you don’t have to, but what are the pitfalls? South China Morning Post",
+      "publishedAt": "Wed, 25 Mar 2026 06:57:37 GMT",
+      "matchedTopicIds": [
+        "openclaw"
+      ],
+      "score": 36,
+      "reasons": [
+        "topic:openclaw",
+        "source:Google News: OpenClaw",
+        "fresh:<72h",
+        "exact-title-hit"
+      ],
+      "ageHours": 57.290439722222224
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "Vibe coding could reshape SaaS industry and add security risks, warns UK cyber agency - The Record from Recorded Future News",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YLXVEVmtkN1hEUldJbEpBN0JRR2FyUGE1UTBGUXNITmxuTjlVQmNsTzg1QWlRNmpVSUtqcU40YUN3S29hMy1QOFNxRGlwUVZTUTFUU19INjA4alpBU3pVbGVR?oc=5",
+      "snippet": "Vibe coding could reshape SaaS industry and add security risks, warns UK cyber agency The Record from Recorded Future News",
+      "publishedAt": "Tue, 24 Mar 2026 21:02:44 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 36,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "title-boost:2",
+        "fresh:<72h"
+      ],
+      "ageHours": 67.2051625
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "Microsoft credential phishing weaponizes Bubble AI app builder - SC Media",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ3g3V3BPeFpTWW5QNVp5c2w4WjNmbWJzZ3RYaTc5cm1WRmdKSlZLV2h6TGFSbDJHVFB6Q2U1V2tTeWRSM2hDM094YjdZZ3BqbWs2Y1ZwbXd4Zmc5SWNnZFNsX2stWXozV3NYUUVVaHJ4eFMwSVhLWTNUVTFveEZMSFFfaWhLNGxMMXR4OHktNW5qMGF1S2VV?oc=5",
+      "snippet": "Microsoft credential phishing weaponizes Bubble AI app builder SC Media",
+      "publishedAt": "Thu, 26 Mar 2026 15:03:32 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 34,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "title-boost:1",
+        "fresh:<72h"
+      ],
+      "ageHours": 25.19182916666667
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "Vibe coding your own enterprise apps is edgy business - cio.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLTRRbURCbm9lZVlUemFNblA2RTBfQzJvNDl3N1o0ZTJBU3pWMTQycFlwalJGV0pkUzhLUkVkQ1ZRbDIzTy1la25CR05aNS1BQUxYWjNaOEhXTDBfRkYzcHJIN1RPd0tQMWE4TVhVVzBadmNtbzBEZ2RnUGEwYl9TT3UwS20zbWUyWlJJOFo1b3dXcHh5VXhnZThn?oc=5",
+      "snippet": "Vibe coding your own enterprise apps is edgy business cio.com",
+      "publishedAt": "Thu, 26 Mar 2026 10:05:17 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 34,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "title-boost:1",
+        "fresh:<72h"
+      ],
+      "ageHours": 30.1626625
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "Bubble AI app builder abused to steal Microsoft account credentials - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPalFLc2lfYldqRlNnMXlMMEVYRFE2VWFERHQtRHhMMkNkSVVxb3pFdWs5aVlQVHZuQVJuakNNdVVvdk9MZ0VqSFA0YjVTcGFDWEhEbm5QTHI1RFFhV1BzZ0NRR0JzbFdzQ1liUUYtWks3dTNFbVVTSDFfd25sRlhtTE1GUTlJQzZ2RXJnMU56dGdyWjQ2ckxDbFoxLTZibF9JaS1xc0gyN1IwZnp1Uno0MTZCR2FuQdIBuwFBVV95cUxOa2trU3pyRkxkQlc5VUFmY1NWM0FsVktwY1JxZnRrSWl4RDAzb2hkazhqNU1jZjB6V0lxZGg5SXg5QU0tT3ZMTVVQclEzbnBwQThaNkJicUVEcFM4NjNzcFpRVE9NYlMyMVZvVGEzR0xkMk9Xbmp5OEJSNlZwU0dOS2RjZktSSXFyLUw2TDAwR0dnYW1faFJKN1ExTXBvWDZYeDJXcmVvTzhXd1g4VlBEX3FCNTJfVVd1QzNB?oc=5",
+      "snippet": "Bubble AI app builder abused to steal Microsoft account credentials BleepingComputer",
+      "publishedAt": "Wed, 25 Mar 2026 19:48:36 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 34,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "title-boost:1",
+        "fresh:<72h"
+      ],
+      "ageHours": 44.44071805555556
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "Vibe Coding 101: How to Build Apps and More With AI - PCMag UK",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcGdUM2c5cUZSeUllbGVuY0NkVGc1S0VibGFkUXRsT2xWcVk2dXNoODYwcWVKS1pLbmVZUzhWWVFKclUySEVHaGdlWTByLW03UzhZQmV3bVZEdTI0MTdZaDJITXhZejZhbEhSUnpDUVVvZk1TOTJ1VUhmd0gyQTdaZV9VNS1xRlVpZF9KeEFxNHJoX0xsYVo4NXRBUTJRdw?oc=5",
+      "snippet": "Vibe Coding 101: How to Build Apps and More With AI PCMag UK",
+      "publishedAt": "Wed, 25 Mar 2026 19:35:01 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 34,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "title-boost:1",
+        "fresh:<72h"
+      ],
+      "ageHours": 44.66710694444444
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini - Research at Google",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd0NyX2JqanFWZm42YkRJWG1DOXR2ZEJ1OE5LQi1paUxTLUtyZU9wVktCV1FrZW82SG1oZkNsSTdhSjR6NDBCcnBFdjVhdTQ4M0RReUF5Mkc5Q2ZxUlRzRTFrUXlYRDlnVndOQVNzV1FmMU9CTHIxZ29ub3ZJdV81ZmJISHRoQ0hJNjJLTEFhRHJSUWpxdFRNbGZiZ3picHF3Rjdz?oc=5",
+      "snippet": "Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini Research at Google",
+      "publishedAt": "Wed, 25 Mar 2026 19:24:22 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 34,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "title-boost:1",
+        "fresh:<72h"
+      ],
+      "ageHours": 44.84460694444444
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "NCSC warns vibe coding poses a major risk to businesses - IT Pro",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkMF9VeVpnY1ZFQWdaXzViUmlQN0doOGtyZVE5VlFYUmdxdHB3WF9HSDhFTXBNTlZNUmFPUDdmREM2SWgwTklGMjVYZmd0YldfaEdUNlhONEtXMXBNM2ZZVHF3WFdBZktsaVpueFd0UlpTc0lSQTA5VTNwQzQ?oc=5",
+      "snippet": "NCSC warns vibe coding poses a major risk to businesses IT Pro",
+      "publishedAt": "Wed, 25 Mar 2026 12:54:18 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 34,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "title-boost:1",
+        "fresh:<72h"
+      ],
+      "ageHours": 51.34571805555556
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "10 Best Vibe Coding Tools in 2026 for Faster, Smarter AI-Powered Development - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZGxaNVJJQnZXNDhzUXJaSm16a29yQUFXbXFvYXd4TC1FOHo3aFR3MWY4eWxKeVB0R0xNUDNTV1pOdnloYWpEaHRNLVBWT240WWJIWUgxVnlNcXRsZXZvV0phWWhIMGhsTUwzajJHRnBEWUQ4Njd3azR4SUJzTlRzajI3cThCRkJiWm54Ni1uZHpnbVh0VGxQQm1iX0podFJCTlJGZ1FPUGs4Ulk4bkZYVTFtaUdtV3JWVFR5SGpEdlQ?oc=5",
+      "snippet": "10 Best Vibe Coding Tools in 2026 for Faster, Smarter AI-Powered Development Tech Times",
+      "publishedAt": "Wed, 25 Mar 2026 11:41:08 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 34,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "title-boost:1",
+        "fresh:<72h"
+      ],
+      "ageHours": 52.5651625
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "Cyber pros must grasp the vibe coding nettle, says NCSC chief - Computer Weekly",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYk1FdEEtT0otQ0JiajZ5b2pHakZ4Y0dnQ2xBRzQzbVcwY1dZWWVIM1AtOVdadDdJa1JMeGwydDNSZkpuSmI1SThsN0tDXzI2eGFyZ2pkMkZtcVRrMjdtWjBfWDJETEdKVGNnOHVOLU80cDRtWDVBcU55THhpdF9Lb0RuVzkxY2gzSkJ0UE5tWkY0eTJCYUZsbTVhel95c3J5TUk3QzdlVXkzQQ?oc=5",
+      "snippet": "Cyber pros must grasp the vibe coding nettle, says NCSC chief Computer Weekly",
+      "publishedAt": "Tue, 24 Mar 2026 22:15:05 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 34,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "title-boost:1",
+        "fresh:<72h"
+      ],
+      "ageHours": 65.99932916666667
+    },
+    {
+      "sourceId": "google-news-vibe-builders",
+      "sourceLabel": "Google News: Bolt/Lovable/Replit builders",
+      "sourcePriority": 12,
+      "title": "RSA Conference: UK NCSC Head Urges Industry to Develop Vibe Coding Safeguards - Infosecurity Magazine",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53Y0tjTEdiekRXRnRzOEd4MURRWnhnekZLVHlLQUpFM0ZKLTFjM05oeWJyeTNnLVBpNEo2cFJaLTcwQTlSc1lwLXhJVE1JYWxKWGJyNl8xWWZEbGhrS3N4WDlQN3pDRjJ0bGVLZU5sWnNSal9FYlJXeElHeWp0TkE?oc=5",
+      "snippet": "RSA Conference: UK NCSC Head Urges Industry to Develop Vibe Coding Safeguards Infosecurity Magazine",
+      "publishedAt": "Tue, 24 Mar 2026 21:00:00 GMT",
+      "matchedTopicIds": [
+        "vibe-builders"
+      ],
+      "score": 34,
+      "reasons": [
+        "topic:vibe-builders",
+        "source:Google News: Bolt/Lovable/Replit builders",
+        "title-boost:1",
+        "fresh:<72h"
+      ],
+      "ageHours": 67.25071805555555
+    },
+    {
+      "sourceId": "google-news-high-attention-ai-devtools",
+      "sourceLabel": "Google News: high-attention AI devtools",
+      "sourcePriority": 9,
+      "title": "Snowflake's AI Coding Agent Streamlines Data Engineering - StartupHub.ai",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdG9aSDRUNjR0YnpvU1N4dzYtbVVhZG5Jajc2V3NQZ2xuempLeE5zQ2w2V0kzMFNyY1dDVzZCS1g4em9JYVFoYlZ1WGkxcWtqZ29MemR4ams0MzNEOFhFV2gyT3U1OEFIZDlYVVpkY3NyM19MZThRWm5VS0xWb2FEd0Y0UGJ2X2RnM3l1cTZ3QWNBMmp5OEFfTVhQcnZScHpBMms2dG9Sd2l6QQ?oc=5",
+      "snippet": "Snowflake's AI Coding Agent Streamlines Data Engineering StartupHub.ai",
+      "publishedAt": "Wed, 25 Mar 2026 17:31:38 GMT",
+      "matchedTopicIds": [
+        "high-attention-ai-tool-news"
+      ],
+      "score": 27,
+      "reasons": [
+        "topic:high-attention-ai-tool-news",
+        "source:Google News: high-attention AI devtools",
+        "title-boost:2",
+        "fresh:<72h"
+      ],
+      "ageHours": 46.72349638888889
+    }
+  ],
+  "totals": {
+    "fetched": 747,
+    "kept": 99
+  },
+  "digestLimit": 8
+}

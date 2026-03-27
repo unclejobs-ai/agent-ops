@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "accountId": "uclejobs",
+  "target": "7461087650",
+  "maxItems": 4,
+  "maxAgeHours": 18,
+  "minHoursBetweenSends": 4,
+  "requireFreshDigest": true
+}

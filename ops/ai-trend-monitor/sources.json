@@ -1,0 +1,132 @@
+{
+  "timezone": "UTC",
+  "digestLimit": 8,
+  "bannedGlobalTerms": ["windsurf", "devin", "funding round", "acquisition rumor", "stock", "earnings", "lawsuit", "regulation", "policy debate", "macro trend"],
+  "topics": [
+    {
+      "id": "claude-code",
+      "label": "Claude Code",
+      "include": ["claude code", "anthropic claude code"],
+      "priority": 18
+    },
+    {
+      "id": "codex",
+      "label": "Codex",
+      "include": ["codex", "openai codex", "codex cli"],
+      "priority": 18,
+      "exclude": ["windsurf", "devin"]
+    },
+    {
+      "id": "cursor",
+      "label": "Cursor",
+      "include": ["cursor ai", "cursor editor", "cursor"],
+      "priority": 16
+    },
+    {
+      "id": "gemini-code-tools",
+      "label": "Gemini code tools",
+      "include": ["gemini cli", "gemini code", "gemini coding", "google ai studio code", "gemini code assist"],
+      "priority": 18
+    },
+    {
+      "id": "openhands",
+      "label": "OpenHands",
+      "include": ["openhands", "all hands ai"],
+      "priority": 16
+    },
+    {
+      "id": "openclaw",
+      "label": "OpenClaw",
+      "include": ["openclaw"],
+      "priority": 14
+    },
+    {
+      "id": "vibe-builders",
+      "label": "Bolt/Lovable/Replit-style builders",
+      "include": ["bolt.new", "bolt", "lovable", "replit agent", "replit", "vibe coding", "app builder"],
+      "priority": 16,
+      "exclude": ["windsurf", "devin"]
+    },
+    {
+      "id": "high-attention-ai-tool-news",
+      "label": "High-attention AI tool news",
+      "include": ["ai coding agent", "ai code editor", "agentic coding", "open source coding agent", "viral ai tool", "developer tool ai", "ships today", "launched", "launch", "release", "benchmark", "comparison", "beats", "vs", "faster", "cheaper", "open source", "one-click", "vibe coding"],
+      "priority": 18,
+      "exclude": ["windsurf", "devin", "funding", "lawsuit", "policy", "regulation"]
+    }
+  ],
+  "sources": [
+    {
+      "id": "hn-frontpage",
+      "label": "Hacker News front page",
+      "type": "rss",
+      "url": "https://news.ycombinator.com/rss",
+      "priority": 14,
+      "notes": "Front-page-ish tech attention signal"
+    },
+    {
+      "id": "google-news-claude-code",
+      "label": "Google News: Claude Code",
+      "type": "google-news-query",
+      "query": "\"Claude Code\" OR \"Anthropic Claude Code\"",
+      "priority": 12,
+      "topicIds": ["claude-code"]
+    },
+    {
+      "id": "google-news-codex",
+      "label": "Google News: Codex",
+      "type": "google-news-query",
+      "query": "\"Codex\" OR \"OpenAI Codex\" OR \"Codex CLI\"",
+      "priority": 12,
+      "topicIds": ["codex"]
+    },
+    {
+      "id": "google-news-cursor",
+      "label": "Google News: Cursor",
+      "type": "google-news-query",
+      "query": "\"Cursor AI\" OR \"Cursor editor\"",
+      "priority": 11,
+      "topicIds": ["cursor"]
+    },
+    {
+      "id": "google-news-gemini-code",
+      "label": "Google News: Gemini code tools",
+      "type": "google-news-query",
+      "query": "\"Gemini CLI\" OR \"Gemini Code Assist\" OR \"Gemini coding\"",
+      "priority": 12,
+      "topicIds": ["gemini-code-tools"]
+    },
+    {
+      "id": "google-news-openhands",
+      "label": "Google News: OpenHands",
+      "type": "google-news-query",
+      "query": "\"OpenHands\" OR \"All Hands AI\"",
+      "priority": 10,
+      "topicIds": ["openhands"]
+    },
+    {
+      "id": "google-news-openclaw",
+      "label": "Google News: OpenClaw",
+      "type": "google-news-query",
+      "query": "\"OpenClaw\" AI assistant OR agent",
+      "priority": 8,
+      "topicIds": ["openclaw"]
+    },
+    {
+      "id": "google-news-vibe-builders",
+      "label": "Google News: Bolt/Lovable/Replit builders",
+      "type": "google-news-query",
+      "query": "\"bolt.new\" OR Lovable OR \"Replit Agent\" OR \"vibe coding\" OR \"AI app builder\"",
+      "priority": 12,
+      "topicIds": ["vibe-builders"]
+    },
+    {
+      "id": "google-news-high-attention-ai-devtools",
+      "label": "Google News: high-attention AI devtools",
+      "type": "google-news-query",
+      "query": "\"AI coding agent\" OR \"AI code editor\" OR \"agentic coding\" OR \"developer tool AI\" OR benchmark OR comparison OR launch OR release OR \"open source\" OR \"vibe coding\"", 
+      "priority": 9,
+      "topicIds": ["high-attention-ai-tool-news"]
+    }
+  ]
+}

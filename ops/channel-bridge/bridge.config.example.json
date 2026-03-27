@@ -1,0 +1,14 @@
+{
+  "enabled": false,
+  "direction": "telegram_to_discord",
+  "pollMs": 5000,
+  "runtimeDir": "ops/channel-bridge/runtime",
+  "telegram": {
+    "sessionKey": "agent:private:telegram:YOUR_ACCOUNT:direct:YOUR_TARGET"
+  },
+  "discord": {
+    "target": "channel:YOUR_DISCORD_CHANNEL_ID",
+    "accountId": "default",
+    "prefix": "[TG→DC]"
+  }
+}
